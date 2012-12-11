@@ -1,0 +1,14 @@
+[{
+	"name" : "Mister Jones",
+	"job" : "Tester",
+	"location" : "Milan (Italy)",
+	"star-badge" : false,
+	"heart" : true
+},
+{
+	"name" : "Mister Smith",
+	"job" : "Designer",
+	"location" : "Milan (Italy)",
+	"star-badge" : false,
+	"heart" : true
+}]
